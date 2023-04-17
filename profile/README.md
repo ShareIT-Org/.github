@@ -12,4 +12,5 @@ Yes, you read correctly. You can hire us!
  - big project: Sum of issue prices plus completion bonus 500€
  - workshops: see big project
  - activities with less specific outcomes like project and product management: 15€/h
+ - If on-site is necessary, the Flixtrain and Hostel fees will be charged extra
  - so happy, you want to pay us more? Consider joining [Play2Learn Org](https://github.com/Play2Learn-Org/) as a sponsor!
